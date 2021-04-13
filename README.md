@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
 
-O projeto pode ser consultado para testar suas funcionalidades através [desse Link](https://maratona-discover-02.herokuapp.com/)
+O projeto pode ser consultado para testar suas funcionalidades através [desse Link](https://maratona-discover-02.herokuapp.com)
 
 ## 🔖 Layout
 
@@ -49,7 +49,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ## Agradecimentos
 
-Projeto implementado na Maratona Discover 02 pela equipe da Rocketseat.
+Projeto implementado na Maratona Discover 02, evento realizado pela equipe da Rocketseat.
 
 Gostaria de deixar meus agradecimentos a toda equipe da Rocketseat, a maratona discover 02 foi sensacional e com certeza eu consegui avançar para um próximo nível em minha carreira de desenvolvedor. 
 
